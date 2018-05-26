@@ -1,5 +1,6 @@
 
 # gitskills
-cerating a new brach is quick
+cerating a new branch is quick
+creating a new branch is qiuck and simple
 
 
